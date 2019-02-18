@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial Narrow';
+    font-size: 18px;
+    font: #FF0000;
+    align-content: center;
+    background: black
+}
+
+h1 {
+    text-align: center;
+    color: #9A0000
+    
+}
+
+.title h2 {
+    float: left;
+    color: #fc6a16
+}
+
+.title img {
+    width: 700px;
+    float: right;
+}
