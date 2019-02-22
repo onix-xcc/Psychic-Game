@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial Narrow';
     font-size: 18px;
-    font: #FF0000;
+    color: #FF0000;
     align-content: center;
     background: black
 }
@@ -9,15 +9,27 @@ body {
 h1 {
     text-align: center;
     color: #9A0000
-    
+}
+
+#game-section {
+    float: left;
+    margin-left: 58px;
+    margin-top: 58px;
+    border-style: double;
+    border-color: #ff5c30;
+    border-width: 13px;
+    border-left-width: 28px;
+    border-right-width: 28px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .title h2 {
-    float: left;
     color: #fc6a16
 }
 
 .title img {
     width: 700px;
     float: right;
+    margin-right: 40px;
 }
